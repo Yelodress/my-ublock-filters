@@ -76,5 +76,6 @@ www.liberation.fr##.cVfszj.default__Wrapper-sc-yixg66-0
 !----------------------------------------------------Zataz------------------------------------------------------
 www.zataz.com##.widget_custom_html.custom-sidebar.widget_text
 www.zataz.com##.widget_text.custom-sidebar
-www.zataz.com##.aligncenter.wp-caption
-
+www.zataz.com##[href="https://www.veillezataz.com"]
+www.zataz.com###attachment_37857
+www.zataz.com##div.aligncenter.wp-caption:nth-of-type(5)
