@@ -152,3 +152,6 @@ www.futura-sciences.com###engage-top
 www.futura-sciences.com##.newsletter
 www.futura-sciences.com##.article-editorial-selection
 www.futura-sciences.com###footer
+
+!----------------------------------------------------Genius------------------------------------------------------
+genius.com##div[class^="sc-"]:has([id^="div-gpt-ad-desktop"])
