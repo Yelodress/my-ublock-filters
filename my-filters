@@ -155,3 +155,10 @@ www.futura-sciences.com###footer
 
 !----------------------------------------------------Genius------------------------------------------------------
 genius.com##div[class^="sc-"]:has([id^="div-gpt-ad-desktop"])
+
+!----------------------------------------------------Dlcompare------------------------------------------------------
+www.dlcompare.fr##.habillage
+www.dlcompare.fr##.dummy-container
+www.dlcompare.fr##.slider-item
+www.dlcompare.fr##.slider-margin
+www.dlcompare.fr##.reward-event-ad-desktop
