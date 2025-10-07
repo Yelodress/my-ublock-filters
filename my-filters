@@ -92,7 +92,8 @@ www.rtl.fr##.loaded.entered.show.lazy.push-notif--login.push-notif
 
 !----------------------------------------------------Leboncoin------------------------------------------------------
 www.leboncoin.fr###home-top-banner
-
+www.leboncoin.fr##li[style^="grid-area:advertising-vl"]
+www.leboncoin.fr##li[class^="styles_ad_"]
 !----------------------------------------------------XDA------------------------------------------------------
 www.xda-developers.com##.active-content.no-badge.small.article-card.article.display-card
 www.xda-developers.com###secondary
