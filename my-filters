@@ -167,3 +167,6 @@ www.dlcompare.fr##.reward-event-ad-desktop
 !----------------------------------------------------Reddit------------------------------------------------------
 !www.reddit.com##shreddit-post:has(div[id*="-post-rtjson-content"]) !Remove all suggested content
 !www.reddit.com##shreddit-post:has(shreddit-join-button) !Remove all posts where you did not joined the sub
+
+!----------------------------------------------------Alternativeto------------------------------------------------------
+alternativeto.net##.bannerLink
