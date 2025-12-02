@@ -31,6 +31,11 @@ youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer
 ! Remove empty spaces in grid
 youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
 
+! Remove videos with "priority to members stuff
+www.youtube.com##yt-lockup-view-model:has(:is(.yt-badge-shape--commerce, .badge-shape-wiz--commerce))
+www.youtube.com##ytd-rich-item-renderer:has(:is(.yt-badge-shape--commerce, .badge-shape-wiz--commerce))
+www.youtube.com##ytd-video-renderer:has(:is(.yt-badge-shape--commerce, .badge-shape-wiz--commerce))
+www.youtube.com##ytd-grid-video-renderer:has(:is(.yt-badge-shape--commerce, .badge-shape-wiz--commerce))
 !----------------------------------------------------Hellcase------------------------------------------------------
 hellcase.com##.livedrop
 hellcase.com##._has-user_xw81l_21._links_xw81l_16._base_1l5gf_1
