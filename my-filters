@@ -181,3 +181,9 @@ techcrunch.com##.article-sidebar
 techcrunch.com##.wp-block-techcrunch-newsletter-signup-compact
 techcrunch.com##.rightrail-promo
 techcrunch.com##.inline-cta__wrapper
+
+!----------------------------------------------------Korben------------------------------------------------------
+korben.info##.banner:has(.pub-section)
+korben.info##.patreon-support-banner
+korben.info##.patreon-card
+korben.info##.twitch-card
