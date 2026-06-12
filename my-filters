@@ -111,6 +111,7 @@ www.xda-developers.com##.static.nav-right.header-section
 www.xda-developers.com##.display-card-main-content-wrapper
 www.xda-developers.com###website-footer
 www.xda-developers.com##.wrapper:not(.w-section-latest)
+www.xda-developers.com##.w-promotion-widget
 
 !----------------------------------------------------Frandroid------------------------------------------------------
 www.frandroid.com##.is-hidden-mobile.is-hidden-tablet-only.is-narrow.column
@@ -188,3 +189,16 @@ korben.info##.banner:has(.pub-section)
 korben.info##.patreon-support-banner
 korben.info##.patreon-card
 korben.info##.twitch-card
+
+
+!----------------------------------------------------Cybernews------------------------------------------------------
+cybernews.com##div.tools-block
+cybernews.com##div.embed-wrapper
+cybernews.com##.google-news-cta
+cybernews.com##.adds__wrapper
+cybernews.com##.sticky-sidebar_with-spacing.sticky-sidebar
+cybernews.com###scroll-up
+cybernews.com##.adds__wrapper_element-before
+
+!----------------------------------------------------Swisstransfer------------------------------------------------------
+www.swisstransfer.com##.cardWrapper
