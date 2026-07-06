@@ -201,4 +201,11 @@ cybernews.com###scroll-up
 cybernews.com##.adds__wrapper_element-before
 
 !----------------------------------------------------Swisstransfer------------------------------------------------------
-www.swisstransfer.com##.cardWrapper
+swisstransfer.com##.cardWrapper
+
+!----------------------------------------------------Ouest-France------------------------------------------------------
+ouest-france.fr##[id^="pub"]
+!----------------------------------------------------Streetpress------------------------------------------------------
+www.streetpress.com##.md\:block.hidden
+www.streetpress.com###CTAC_articlePostChapo
+www.streetpress.com###CTAC_headerBandeauButtonSupport
